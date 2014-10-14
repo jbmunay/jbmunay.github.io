@@ -1,0 +1,33 @@
+.intro {
+    margin: 50px 320px 350px;
+}
+
+.pushed-img {
+    margin: 80px 0 20px 0;
+}
+
+.work {
+    background-color: #f4f4f4 ;
+}
+
+#nav {
+    margin: 20px 0 20px;
+}
+
+#nav a {
+    color: #323232;
+    font-size: 18px ; 
+}
+
+#nav a:hover {
+    color: #CECECD;
+}
+
+.blurb {
+  max-width: 620px;
+  padding: 0 20px;
+  margin: 50px auto 120px;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 300;
+}
